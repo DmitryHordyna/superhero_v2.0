@@ -1,0 +1,6 @@
+*.txt
+task
+node_modules
+.prettierrc
+
+
